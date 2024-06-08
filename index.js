@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Unlocked"];
+const statusMessages = ["/Unlock"];
 
 
 let currentIndex = 0;
