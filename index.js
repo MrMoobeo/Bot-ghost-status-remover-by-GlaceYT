@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["BrawlTrade"];
+const statusMessages = ["Unlocked"];
 
 
 let currentIndex = 0;
