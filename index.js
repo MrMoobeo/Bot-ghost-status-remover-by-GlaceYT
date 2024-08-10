@@ -1,3 +1,4 @@
+.
 /**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
@@ -36,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/Unlock"];
+const statusMessages = ["Modding"];
 
 
 let currentIndex = 0;
